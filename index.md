@@ -2,12 +2,11 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hersey Cui
+Data Scientist.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a>Herseygagacui@gmail.com</a>
 </div>
 
 
@@ -25,24 +24,15 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## Work Experience
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Jan 2022 - now
+__Bosch Automotive Products__
+- Suzhou, Jiangsu, China
 
 
 
-## Awards
+### Key Responsibilities
 
 `2012`
 President, *Royal Society*, London, UK
