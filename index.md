@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hersey Cui's CV
 ---
 # Hersey Cui
 Data Scientist.
@@ -10,23 +10,9 @@ Data Scientist.
 </div>
 
 
-## Currently
+## 💼Work Experience
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Work Experience
-
-Jan 2022 - now
+`Jan 2022 - now`
 __Bosch Automotive Products__
 - Suzhou, Jiangsu, China
 
@@ -41,19 +27,17 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
+## 🎓 Education
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Master
+`2020-2021`
+*Data Science*, University of Nottingham, [Nottingham, UK] 
 
-### Journals
+### Bachelor
+`2014-2018`
+*Infomation Management and Information System*, Beijing University of Posts and Telecommunications, [Beijing, China]
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
