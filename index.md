@@ -27,22 +27,20 @@ __Bosch Automotive Products__
 
 
 ## 📂Projects
-* **AI Assistant for Problem Solving**
-
+- **AI Assistant for Problem Solving**
 Designed and developed an LLM-powered assistant to support engineers in problem-solving by extracting and summarizing relevant historical cases from quality  reports. Integrated a knowledge graph and GraphRAG-based retrieval to provide accurate, context-aware suggestions for new quality issues. 
 
 _Tech: LangChain, Ollama, Streamlit, Nebulagraph/Neo4j, GraphRAG_
 
 
-* **Defect Classification Using Computer Vision**
-
+- **Defect Classification Using Computer Vision**
 Developed a CNN-based model to classify surface defects from product images captured during the production process, achieving 99% classification accuracy. The solution helped automate visual inspection and reduce manual inspection efforts. 
 
 _Tech: PyTorch, OpenCV, Tensorflow_
 
 
-* **Preventive Quality Monitoring for ECU Production**
 
+- **Preventive Quality Monitoring for ECU Production**
 Implemented a preventive quality monitoring system using statistical analysis of in-line process parameters to detect early signs of deviation. Applied decision tree models to quickly identify potential root causes of anomalies. Integrated results into a live dashboard to visualize risk trends and support engineering decisions.
  
 _Tech: Python, scikit-learn, SQL, Power BI_
