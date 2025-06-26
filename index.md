@@ -45,7 +45,7 @@ Developed a CNN-based model to classify surface defects from product images capt
 <p style="background-color: #f5f5f5; border-radius: 4px; font-size: 90%; margin-left: 2em;">
 Implemented a preventive quality monitoring system using statistical analysis of in-line process parameters to detect early signs of deviation. Applied decision tree models to quickly identify potential root causes of anomalies. Integrated results into a live dashboard to visualize risk trends and support engineering decisions.<br>
  
-<em> Tech: Python, scikit-learn, SQL, Power BI <em>
+<em> Tech: Python, scikit-learn, SQL, Power BI </em>
 </p>
 
 
