@@ -28,11 +28,11 @@ __Bosch Automotive Products__
 
 ## 📂Projects
 * AI Assistant for Problem Solving
-<p style="background-color: #f5f5f5; padding: 0.5em; border-radius: 4px;">
+<p style="background-color: #f5f5f5; padding: 0.5em; border-radius: 4px; font-size: 80%; margin-left: 2em;">
 Designed and developed an LLM-powered assistant to support engineers in problem-solving by extracting and summarizing relevant historical cases from quality  reports. Integrated a knowledge graph and GraphRAG-based retrieval to provide accurate, context-aware suggestions for new quality issues.
-</p>
 
 _Tech: LangChain, Ollama, Streamlit, Nebulagraph/Neo4j, GraphRAG_
+</p>
 
 * Defect Classification Using Computer Vision
 Developed a CNN-based model to classify surface defects from product images captured during the production process, achieving 99% classification accuracy. The solution helped automate visual inspection and reduce manual inspection efforts.
