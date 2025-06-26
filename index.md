@@ -21,13 +21,16 @@ __Bosch Automotive Products__
 ### Key Responsibilities
 
 - Delivered AI-driven solutions using Large Language Models (LLMs) to optimize workflows and support decision-making.
+  
 - Developed ML and computer vision models to support automated quality monitoring.
+  
 - Developed dashboards to track defect trends and KPIs.
+  
 - Automated data pipelines to support system integration and reporting.
 
 
 ## 📂Projects
-> - AI Assistant for Problem Solving
+AI Assistant for Problem Solving
 > Designed and developed an LLM-powered assistant to support engineers in problem-solving by extracting and summarizing relevant historical cases from quality  reports. Integrated a knowledge graph and GraphRAG-based retrieval to provide accurate, context-aware suggestions for new quality issues.
 > _Tech: LangChain, Ollama, Streamlit, Nebulagraph/Neo4j, GraphRAG_
 
