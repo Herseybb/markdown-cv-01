@@ -39,11 +39,11 @@ blockquote {
   left: 25%;
   width: 55%;
   padding: 0.5em 0.5em;
+  margin-bottom: 0.7em;
   border-left: 3px solid #ccc;
   background-color: #f9f9f9;
   font-style: inherit;
   color: #555;
-  text-indent: 0;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -69,12 +69,17 @@ body {
 	margin-left: 1em;
 }
 
-p {
+p:not(blockquote p) {
 	position: relative;
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
+}
+blockquote p {
+  position: static;
+  left: 0;
+  margin-left: 0.7em;
 }
 
 code {
