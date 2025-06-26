@@ -28,21 +28,25 @@ __Bosch Automotive Products__
 
 ## 📂Projects
 * AI Assistant for Problem Solving
-<p style="background-color: #f5f5f5; padding: 0.5em; border-radius: 4px; font-size: 80%; margin-left: 2em;">
-Designed and developed an LLM-powered assistant to support engineers in problem-solving by extracting and summarizing relevant historical cases from quality  reports. Integrated a knowledge graph and GraphRAG-based retrieval to provide accurate, context-aware suggestions for new quality issues.
+<p style="background-color: #f5f5f5;  border-radius: 4px; font-size: 90%; margin-left: 2em;">
+Designed and developed an LLM-powered assistant to support engineers in problem-solving by extracting and summarizing relevant historical cases from quality  reports. Integrated a knowledge graph and GraphRAG-based retrieval to provide accurate, context-aware suggestions for new quality issues. <br>
 
-_Tech: LangChain, Ollama, Streamlit, Nebulagraph/Neo4j, GraphRAG_
+<em> Tech: LangChain, Ollama, Streamlit, Nebulagraph/Neo4j, GraphRAG </em>
 </p>
 
 * Defect Classification Using Computer Vision
-Developed a CNN-based model to classify surface defects from product images captured during the production process, achieving 99% classification accuracy. The solution helped automate visual inspection and reduce manual inspection efforts.
+<p style="background-color: #f5f5f5; border-radius: 4px; font-size: 90%; margin-left: 2em;">
+Developed a CNN-based model to classify surface defects from product images captured during the production process, achieving 99% classification accuracy. The solution helped automate visual inspection and reduce manual inspection efforts. <br>
 
-_Tech: PyTorch, OpenCV, Tensorflow_
+<em> Tech: PyTorch, OpenCV, Tensorflow </em>
+</p>
 
 * Preventive Quality Monitoring for ECU Production
-Implemented a preventive quality monitoring system using statistical analysis of in-line process parameters to detect early signs of deviation. Applied decision tree models to quickly identify potential root causes of anomalies. Integrated results into a live dashboard to visualize risk trends and support engineering decisions.
+<p style="background-color: #f5f5f5; border-radius: 4px; font-size: 90%; margin-left: 2em;">
+Implemented a preventive quality monitoring system using statistical analysis of in-line process parameters to detect early signs of deviation. Applied decision tree models to quickly identify potential root causes of anomalies. Integrated results into a live dashboard to visualize risk trends and support engineering decisions.<br>
  
-_Tech: Python, scikit-learn, SQL, Power BI_
+<em> Tech: Python, scikit-learn, SQL, Power BI <em>
+</p>
 
 
 
