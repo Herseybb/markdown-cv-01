@@ -78,8 +78,9 @@ p {
 }
 
 blockquote p {
-  position: static;
-  left: 0;
+  position: relative;
+  left: 0%;
+  width: 100%;
   margin-left: 0.7em;
 }
 
