@@ -35,10 +35,12 @@ ol, ul {
 	list-style: disc inside;
 }
 blockquote {
+  padding: 0.5em 0.5em;
   border-left: 3px solid #ccc;
   background-color: #f9f9f9;
   font-style: inherit;
   color: #555;
+  box-sizing: border-box;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
