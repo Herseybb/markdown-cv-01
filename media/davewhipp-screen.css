@@ -39,7 +39,6 @@ blockquote {
   background-color: #f9f9f9;
   font-style: inherit;
   color: #555;
-  box-sizing: border-box;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
