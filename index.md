@@ -34,6 +34,7 @@ __Bosch Automotive Products__
 ### M.Sc.
 `2018-2020`
 *Congnitive Neuroscience*, Beijing Normal University, [Beijing, China] (not completed)
+
 Admitted through self-study of full undergraduate psychology curriculum; completed core cognitive neuroscience coursework before shifting focus to data science.
 
 ### B.Mgt.
