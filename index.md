@@ -27,11 +27,16 @@ __Bosch Automotive Products__
 
 ## 🎓 Education
 
-### Master
+### M.Sc.
 `2020-2021`
-*Data Science*, University of Nottingham, [Nottingham, UK] 
+*Data Science*, University of Nottingham, [Nottingham, UK] (with Distinction)
 
-### Bachelor
+### M.Sc.
+`2018-2020`
+*Congnitive Neuroscience*, Beijing Normal University, [Beijing, China] (not completed)
+Admitted through self-study of full undergraduate psychology curriculum; completed core cognitive neuroscience coursework before shifting focus to data science.
+
+### B.Mgt.
 `2014-2018`
 *Infomation Management and Information System*, Beijing University of Posts and Telecommunications, [Beijing, China]
 
