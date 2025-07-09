@@ -46,9 +46,9 @@ Admitted through self-study of full undergraduate psychology curriculum; complet
 ## 📂Projects
 - **AI Assistant for Problem Solving**
 
-> Designed and developed an LLM-powered assistant to support engineers in problem-solving by extracting and summarizing relevant historical cases from quality  reports. Integrated a knowledge graph and GraphRAG-based retrieval to provide accurate, context-aware suggestions for new quality issues. 
+  > Designed and developed an LLM-powered assistant to support engineers in problem-solving by extracting and summarizing relevant historical cases from quality  reports. Integrated a knowledge graph and LLM based workflow to provide accurate, context-aware suggestions for new quality issues. 
 >
-> _Tech: LangChain, Ollama, Streamlit, Nebulagraph/Neo4j, GraphRAG_
+> _Tech: LangChain, Ollama, Streamlit, Nebulagraph/Neo4j, GraphChat_
 
 
 
